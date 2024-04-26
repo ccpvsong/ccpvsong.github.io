@@ -1,0 +1,15 @@
+{
+    "canciones": [
+        {
+            "id": "1",
+            "titulo": "Glorioso",
+            "letra": "(1)Glo(5)rio(6)so t(4)e cantamos <br> (1)Glo(5)rio(6)so t(4)e cantamos  <br>"
+        },
+        {
+            "id": "2",
+            "titulo": "Otra Canción",
+            "letra": "(1)Letra de la otra (4)canción con <br> (3)acordes..."
+        }
+
+    ]
+}
