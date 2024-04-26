@@ -28,6 +28,11 @@ header{
     color: aliceblue;
 }
 
+.center{
+    text-align: center;
+    margin: auto;
+}
+
 .logo img{
     height: 45px;
     border-radius: 50%;
@@ -206,6 +211,8 @@ titulo{
     display: block;
 }
 
+
+
 @media (max-width: 991px){
     .cartas_container{
         grid-template-columns: 1fr 1fr;
@@ -272,11 +279,21 @@ titulo{
     .carta{
         width: 100%;
         max-width: 300px;
-        min-width: 200px;
+        min-width: 0px;
+        height: 274px;
     }
 
     .cartas_container{
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
+        gap: 5px;
+    }
+
+    .container_img {
+        height: 120px;
+        border-radius: 5px;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
     }
 
     #cancion, #lis{
@@ -287,4 +304,26 @@ titulo{
         justify-content: center;
     }
 }
+
+
+@media (max-width: 295px){
+    .carta{
+        width: 100%;
+        max-width: 200px;
+        min-width: 0px;
+        height: 274px;
+    }
+
+    .cartas_container{
+        grid-template-columns: 1fr;
+        gap: 5px;
+    }
+}
+
+@media (max-width: 251px){
+    .center{
+        display: none;
+    }
+}
+
 
