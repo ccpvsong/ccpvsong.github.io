@@ -352,6 +352,10 @@ b.estilos-alternos{
 
 @media (max-width: 767px){
 
+    .buscador{
+        width: 95%;
+    }
+    
     .cartas_container{
         display: grid;
         flex-direction: column;
