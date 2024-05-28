@@ -80,6 +80,10 @@
 
         <div class="con_menu" id="can">
             
+            <div class="ton">
+                <div class="mit1"><span id="tonsug"></span></div>
+                <div class="mit2"><iframe id="practicar" src=""  frameborder="0"  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            </div>
 
             <div class="btn-group tonalidades">
                 <button type="button" class="btn btn-sm btn-outline-secondary" onclick='tono("N")'>#</button>
@@ -213,6 +217,7 @@
             document.getElementById("cartas").style.display="none";
             document.getElementById("can").style.display="block";
             document.getElementById("li").style.display="none";
+            
         }
 
         function verlista(){
@@ -273,6 +278,8 @@
             ante=id
             console.log(ante)
 
+            
+
             fetch('canciones.json') // Ruta al archivo JSON de canciones
                 .then(response => response.json()) // Convertir la respuesta a JSON
                 .then(data => {
@@ -290,6 +297,11 @@
 
                     // Mostrar la letra de la canción en el div con el id "cancion"
                     cancion.querySelector("p").innerHTML ="<titulo>"+cancionActual.titulo+"</titulo><br>"+cancionTexto;
+                    cancion.querySelector("#tonsug").innerHTML=cancionActual.general;
+                    console.log(cancionActual.general)
+                    cancion.querySelector("#practicar").src=cancionActual.mini;
+                    console.log(cancionActual.mini)
+
                 })
                 .catch(error => console.error('Error al cargar el archivo JSON:', error));
         }
@@ -458,6 +470,14 @@ function mostrarAmbas() {
         elemento.style.display = 'block';
     });
 }
+
+
+
+
+
+
+
+
 
 /*
 function alternarEstilos() {
