@@ -189,7 +189,7 @@
             "mini": "https://www.youtube.com/embed/DUtLqYCHZCQ?si=wiacpUmJ5t5N-TeH",
             "post": "img/cancion19.jpg",
             "general": "",
-            "tipo": "Lenta"
+            "tipo": "Rapida"
         },
         {
             "id": "19",
@@ -209,7 +209,7 @@
             "mini": "https://www.youtube.com/embed/BWZXWQXgK5Q?si=xL6yCHkchGgsSFXE",
             "post": "img/cancion21.jpg",
             "general": "",
-            "tipo": "Lenta"
+            "tipo": "Rapida"
         },
         
         {
@@ -326,7 +326,7 @@
         {
             "id": "32",
             "titulo": "Por siempre te alabare",
-            "letra": "</inv>(6)Eres Di(1)os<br>Te(5) levanta(4)mos hoy<br>(6)Cantarem(1)os, (5)alabaremos(4)<br>(6)Y jamás(1) na(5)da nos det(4)endrá<br>(6)Eres dig(1)no de to(5)da gloria(4)<br><br>(5)Oh, no hay como T(6)ú, Dios<br>Reinas por siempre(4)<br>Sobre todo, Señ(5)or<br>Nadie co(6)mo Tú<br>Nadie co(4)mo Tú<br><br>(4)A (5)Ti...(6)<br>por siem(4)pre te alabaré(5)...(1)<br>Día y no(4)che gloria yo t(5)e da(6)ré<br>Por siem(4)pre te alab(5)aré...(1)<br><br>(6)Amor sin fin(1)<br>(5)Luz antes(4) que el Sol<br>(6)Tu gloria(1) es (5)eterna(4)<br>(6)Sin parar(1), n(5)o terminara(4)<br>(6)La creación h(1)oy te(5) canta(4)<br><br>Te levan(4)tamos<br>Te damos nuestro am(6)or<br>Por todo lo que ha(4)ces, Dios<br>La gloria te da(6)ré<br> <hr class='otro'><inv>",
+            "letra": "</inv>(6)Eres Di(1)os<br>Te(5) levanta(4)mos hoy<br>(6)Cantarem(1)os, (5)alabaremos(4)<br>(6)Y jamás(1) na(5)da nos det(4)endrá<br>(6)Eres dig(1)no de to(5)da gloria(4)<br><br>(5)Oh, no hay como T(6)ú, Dios<br>Reinas por siempre(4)<br>Sobre todo, Señ(5)or<br>Nadie co(6)mo Tú<br>Nadie co(4)mo Tú<br><br>(4)A (5)Ti...(6)<br>por siem(4)pre te alabaré(5)...(1)<br>Día y no(4)che gloria yo t(5)e da(6)ré<br>Por siem(4)pre te alab(5)aré...(1)<br><br>(--(4)----(5)----(6)---(1)--)<br><br>(6)Amor sin fin(1)<br>(5)Luz antes(4) que el Sol<br>(6)Tu gloria(1) es (5)eterna(4)<br>(6)Sin parar(1), n(5)o terminara(4)<br>(6)La creación h(1)oy te(5) canta(4)<br><br>Te levan(4)tamos<br>Te damos nuestro am(6)or<br>Por todo lo que ha(4)ces, Dios<br>La gloria te da(6)ré<br> <hr class='otro'><inv>",
             "youtube": "https://www.youtube.com/watch?v=SHVSntftrBg",
             "mini": "https://www.youtube.com/embed/SHVSntftrBg?si=5CBzT_16BBKDjpYQ",
             "post": "img/cancion33.jpg",
@@ -853,7 +853,97 @@
             "post": "img/cancion85.jpg",
             "general": "",
             "tipo": "Lenta"
-        }
+        },
+        {
+            "id": "85",
+            "titulo": "Hay un rey",
+            "letra": "</inv>//Hay un r(4)ey, Cristo, mi r(5)ey<br>Cristo ven gobie(3)rna mi hogar<br>Venga tu re(6)ino en la ciudad// x2<br><br>//Y to(4)do ojo te verá, to(5)da lengua cantará<br>C(3)risto es el rey, C(6)risto es el rey// x4<br> <hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=TjyC7sjZQk0",
+            "mini": "https://www.youtube.com/embed/TjyC7sjZQk0?si=cVxlu4WiH6deTAK9",
+            "post": "img/cancion86.jpg",
+            "general": "<span>Carla G</span>",
+            "tipo": "Lenta"
+        },
+        {
+            "id": "86",
+            "titulo": "Santo por siempre",
+            "letra": "</inv>M(1)il generaciones<br>Se po(4)stran adorar(1)le<br>Le canta(6)n al corde(5)ro<br>Que venció(4)<br><br>Los q(1)ue nos precedieron<br>Y l(4)os que en Él creerá(1)n<br>Le ca(6)ntarán a aqu(5)el<br>Que ya venci(4)ó<br><br>Tu no(4)mbre, es más alto<br>Tu no(5)mbre, es más grande<br>Tu no(6)mbre<br>sobre to(5)do e(4)s<br><br>Sean tr(4)onos, dominios<br>Pod(5)eres, potestades<br>Tu no(6)mbre<br>sobre to(5)do e(2)s<br><br>Claman ángele(4)s,<br>Santo(5)<br>Clama la creació(3)n,<br>Santo(6)<br>Exaltado Dios(2),<br>Santo(5)<br>Santo por siempr(1)e<br><br>S(1)i te ha perdonado<br>Y tien(4)es salvación(1)<br>Cá(6)ntale al corde(5)ro<br>Que venció(4)<br><br>S(1)i te ha libertado<br>Su no(4)mbre ha puesto en ti(1)<br>Cánta(6)le al corde(5)ro<br>Que venció(4)<br><br>Ca(6)ntaremos sie(5)mpre amén(2)<br> <hr class='otro'><inv>",
+            "youtube": "https://youtube.com/watch?v=YQay6GcxtII",
+            "mini": "https://www.youtube.com/embed/YQay6GcxtII?si=1vNAqJwRPXPW0m02",
+            "post": "img/cancion87.jpg",
+            "general": "<span>Carla E</span>",
+            "tipo": "Lenta"
+        },
+        {
+            "id": "87",
+            "titulo": "Que ruja el leon",
+            "letra": "</inv> S(6)obre el trono <br>D(5)e justicia etername(4)nte<br>Habrá un Re(6)y<br>E(6)l Volverá pa(5)ra gobernar las nacione(4)s<br>En amo(6)r<br><br>Que ru(6)ja el león,<br>que la tierra se estreme(5)zca<br>Ante la ma(4)jestad(2) de Jes(6)ús<br><br>El des(6)cendiente de David<br>El hom(5)bre más notable<br>Él ama(4) la justi(2)cia<br>Y o(6)dia la iniquidad<br><hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=t2-7MlSfzSs",
+            "mini": "https://www.youtube.com/embed/t2-7MlSfzSs?si=bcP1UOSeySwrJrZ3",
+            "post": "img/cancion88.jpg",
+            "general": "<span>Carla G</span>",
+            "tipo": "Lenta"
+        },
+        {
+            "id": "88",
+            "titulo": "Alaba",
+            "letra": "</inv> Q(1)ue toda la Cre(1)ación<br>Al(1)abe a Dios ala(1)be a Dios<br><br>Te ala(1)bo en el valle<br>Te ala(4)bo en el mo(1)nte<br>Te ala(5)bo en el día(4)<br>Te alabo en la no(1)che<br>Te ala(1)bo en el medio<br>Esta(4)ndo rodeado(1)<br>Porque c(5)uando alabo(4)<br>Tú estás a mi(1) lado<br><br>Mientra(5)s tenga aliento<br>M(4)i alma canta y<br><br>A(6)laba (4)a Dios(1), Mi corazó(5)n<br><br>Te ala(1)bo al sentirlo<br>Y au(4)n cuando no(1)<br>Te a(5)labo y sé(4)<br>Que estás en con(1)trol<br>Es má(1)s que un sonido<br>Es ado(4)ración(1)<br>Y cu(5)ando alaba(4)mos<br>Caerá Jeri(1)có<br><br>N(6)o me detengo<br>Mi Di(4)os vivo está<br>C(1)ómo me voy a calla(5)r<br>A(6)laba (4)a Dios(1), Mi corazó(5)n<br><br>Ala(1)bo al que reina<br>Ala(4)bo al Señor<br>Ala(5)bo a aquel que la tu(4)mba venció<br><br>Ala(1)bo al que es bueno<br>Ala(4)bo al que es fiel<br>Le ala(5)bo porque no hay (4)otro como él<br><br><hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=naG_gVo8buc",
+            "mini": "https://www.youtube.com/embed/naG_gVo8buc?si=hB7upiofxZRoBU1J",
+            "post": "img/cancion89.jpg",
+            "general": "<span>Carla A</span>",
+            "tipo": "Rapida"
+        },
+        {
+            "id": "89",
+            "titulo": "Algo esta pasando",
+            "letra": "</inv> Se escucha un son(6)ido<br>Desciende desde el cie(5)lo<br>Trayendo liberta(4)d<br>Llenándonos con fue(3)go...(8)<br><br>Tú glo(4)ria está en este lug(1)ar<br>S(6)e mueve y me envuelve m(5)ás<br><br>A(6)lgo está pasando<br>Los cielos se están abri(4)endo<br>Ángeles están cantando<br>Y los demonios están huye(1)ndo<br>No hay enfermedad<br>No hay cautivid(5)ad<br>Donde está el espíritu de Dios<br>Ahí hay liberta(6)d<br><hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=Yz5ZAc2OwwQ",
+            "mini": "https://www.youtube.com/embed/Yz5ZAc2OwwQ?si=t6j0pMb0bAC-9hUL",
+            "post": "img/cancion90.jpg",
+            "general": "<span>Carla C</span>",
+            "tipo": "Lenta"
+        },
+        {
+            "id": "90",
+            "titulo": "Hay un mover",
+            "letra": "</inv> M(1)ontañas se moverán(4)<br>Ca(1)denas se romperán(4)<br>D(5)ios lo creemos<br>po(6)rque hoy vemos<br>Mila(5)gros en este lugar(4)<br><br>M(1)uertos se levantarán(4)<br>G(1)igantes se derrotaran(4)<br>D(5)ios lo creemos<br>po(6)rque hoy vemos<br>Mila(5)gros en este lugar(4)<br><br>Hay un move(6)r aquí (4)<br>Vine hoy(1) por ti(5)<br>Hoy me entre(6)go a ti(4)<br>Vine ho(1)y por ti(5)<br>Muévete ho(4)y<br>Muévete ho(1)y<br><br>H(4)ay un milagro en este lugar<br>C(6)uando te mueves hay sa(1)nidad<br>H(4)ay un milagro en este lugar<br>El cielo está (1)cerca<br><hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=d1qCDmQE52Y",
+            "mini": "https://www.youtube.com/embed/d1qCDmQE52Y?si=ToQmX8DEMdrg2ODP",
+            "post": "img/cancion91.jpg",
+            "general": "<span>Carla C</span>",
+            "tipo": "Lenta"
+        },
+        {
+            "id": "91",
+            "titulo": "Aleluya",
+            "letra": "</inv> Cuando p(1)ienso en todo lo que has hecho<br>Mi alma canta(1)---/---(3)<br>A(4)lelu(2)ya...(1)<br><br>Tú me as(1)ombras con Tus maravillas<br>Por eso canto(1)---/---(3)<br>A(4)lelu(2)ya...(1)<br><br>Yo no temeré(5) de acer(4)carme(1)<br>Perfume a Tus(5) pies vengo a entr(4)egarte(1)<br>No me cansaré(5) de enam(4)orarte(1)<br>Tuyo seré(5) ahora y por(4) siempre(1)<br>A(4)leluya(1)<br>A(4)leluya(1)<br>A(4)leluya(1)<br>A(4)leluya(1)<br><br>Y(1)o perdido<br>Corriste hasta encontrarme(1)---/---(3)<br>Y ahora canto<br>A(4)lelu(2)ya...(1)<br><br>Ni la m(1)uerte<br>Podrá silenciarme(1)---/---(3)<br>Mi canto es siempre<br>A(4)leluya(1)<br><br>D(2)ónde estaría yo<br>S(1)i no fuera por Tu a(4)mor<br>Por siempre es Tu miser(6)icordia(5)<br>G(2)racia me rescató(1)<br>Gloria al rey hijo de(4) Dios<br>Por siempre es Tu miser(6)icordia(5)<br><hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=m04d1I-mSGI",
+            "mini": "https://www.youtube.com/embed/m04d1I-mSGI?si=DXXM-NIxwjMYHrpA",
+            "post": "img/cancion92.jpg",
+            "general": "<span>Carla D</span>",
+            "tipo": "Lenta"
+        } ,
+        {
+            "id": "92",
+            "titulo": "Ruido",
+            "letra": "</inv>S(1)ábado en silencio<br>Seguro terminó(6)<br>¿Pero qué es im(5)posible<br>P(4)ara mi Dio(1)s?<br>V(1)iernes en la tumba<br>Domingo despertó(6)<br>No hay nada imp(5)osible<br>P(4)ara mi Dio(1)s<br><br>(--(4)------(1)--)<br><br>E(1)ste es el ruido<br>Que aviva los huesos(4)...(1)<br>(1)La adoración que levanta los muertos(4)...(1)<br>De la tumba h(6)oy, voy a sal(5)ir<br>Voy a vivi(4)r, a vivir otra(1) vez<br>E(1)ste es el ruido<br>Que aviva los huesos(4)...(1)<br><br>(--(4)------(1)--)<br><br>Despi(1)erta un fuego nuevo<br>En mi corazón(6)<br>Tú sigues ob(5)rando milagros<br>S(4)in limitaci(1)ón<br>El po(1)der de tu victoria fluye en mi<br>interior(6)<br>En este lugar(5) hay milagro(4)s<br>Lo creemos ho(1)y<br><br>M(1)i Dios hoy puede<br>Salvar liberar y sanar<br>Restaurar y dar vida a los muertos<br>Pregúntale al hombre que <br>Fue lanzado sobre Eliseo<br>Si hay algo imposible<br>Pregúnta(4)le a la p(1)iedra <br>Cub(4)riendo la tum(1)ba<br>Qué ocur(4)re cuan(1)do<br>Dios s(4)e mueve(1)<br>Aquí te s(4)iento en mi(1) ser<br>Puedo sent(4)ir tu move(1)r<br>Puedo senti(4)r tu move(1)r<br>Muévete(6), mué(5)vete(4)<br> <hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=c5oOhtQTM3g",
+            "mini": "https://www.youtube.com/embed/c5oOhtQTM3g?si=AZ91TbFreDZaNChG",
+            "post": "img/cancion93.jpg",
+            "general": "<span></span>",
+            "tipo": "Rapida"
+        } ,
+        {
+            "id": "93",
+            "titulo": "Egipto",
+            "letra": "</inv> N(6)o olvidaré l(4)a forma(1)<br>Que me dist(5)e<br>M(6)i libertad(4) el éx(1)odo<br>En mi vi(5)da<br><br>M(6)e hallaste<br>M(4)e libraste<br>D(1)e lo que hab(5)ía<br>En contra mi(6)<br>Oh J(4)ehová(5)<br><br>Eres quien p(6)elea por mi<br>La victor(4)ia está en ti<br>Aleluy(1)a, aleluya(5)<br>Has abiert(6)o el mar por mi<br>Y me guía(4)s hacia ti<br>Aleluy(1)a, aleluya(5)<br><br>T(6)u nube Di(4)os<br>Me guí(1)a cada dí(5)a<br>T(6)u fuego hoy<br>A(4)lumbra (1)mi cami(5)no<br><br>(--(4)------(1)--)<br><br>Ll(4)egaste a mi Egipto<br>Tu mano me s(5)aco<br>En li(6)bertad camino<br>En tus promesas(1) Dios<br>Nunca(4) voy a olvidarlo<br>Por siempre cantaré(5)<br>Tú vencist(6)e a l(8)a muerte<br>Con la furia de tu amo(1)r<br> <hr class='otro'><inv>",
+            "youtube": "https://www.youtube.com/watch?v=AG0pmUqFvuA",
+            "mini": "https://www.youtube.com/embed/AG0pmUqFvuA?si=qMsAAnBrsJ9-YTmC",
+            "post": "img/cancion94.jpg",
+            "general": "<span>Carla C</span>",
+            "tipo": "Lenta"
+        } 
         
 
         
