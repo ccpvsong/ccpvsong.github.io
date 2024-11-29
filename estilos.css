@@ -353,7 +353,7 @@ b.estilos-alternos{
     align-items: center;
     height: max-content;
     border-radius: 5px;
-    height: 89px;
+    height: 150px;
     color: aliceblue;
     margin-bottom: 3px;
 }
@@ -464,7 +464,7 @@ b.estilos-alternos{
     
     .ton{
         flex-direction: column-reverse;
-        height: 130px;
+        height: 150px;
     }
 
     .mit1{
